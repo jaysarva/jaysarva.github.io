@@ -10,6 +10,6 @@
 />
 
 <section class="layout-md py-12">
-  <h2 class="heading2">Blog</h2>
+  <h2 class="heading2">Thoughts</h2>
   <BlogList data={posts} />
 </section>

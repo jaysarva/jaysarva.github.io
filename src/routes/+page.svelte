@@ -20,15 +20,19 @@
     </p>
 
     <p>
-      I am interested in information retrieval, agentic search, and adjacent
-      problems. Lately, I have been thinking about retrieval systems that keep
-      more token-level structure alive through scoring, and what it would take
-      to make dense retrieval both more expressive and more useful in real
-      search systems.
+      I am interested in late interaction retrieval models, agentic search, and
+      adjacent problems. Lately, I have been thinking about search systems that
+      can adapt across turns, preserve fine-grained matching signals, and
+      decide what evidence is worth carrying forward.
     </p>
   </div>
 
   <div class="space-y-5">
+    <p>
+      I recently graduated from Brown, where I spent time as a TA for a couple
+      upper-level CS theory and vision classes.
+    </p>
+
     <p>
       During undergrad, I published papers on
       <a
@@ -40,11 +44,6 @@
         >adversarial scenario generation for self-driving</a
       >. I also spent some time dabbling in robust high dimensional statistics
       research.
-    </p>
-
-    <p>
-      I recently graduated from Brown, where I spent time as a TA for a couple
-      upper-level CS theory and vision classes.
     </p>
 
     <p>I once ate 2 pounds of frozen pineapple.</p>

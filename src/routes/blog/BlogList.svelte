@@ -14,7 +14,7 @@
 </script>
 
 {#if data.length === 0}
-  <p class="text-lg text-neutral-500">Technical posts coming soon.</p>
+  <p class="text-lg text-neutral-500">I'm sure I'll have one eventually...</p>
 {:else}
   <div class="grid gap-y-4">
     {#each data as item}
